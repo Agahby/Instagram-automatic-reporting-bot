@@ -1,0 +1,14 @@
+Instagram-auto-reporting-bot
+Setup 
+
+➕apt update && appropriate upgrade-y
+
+➕pkg install git
+
+➕git clone https://github.com/DrZalost/Dr-report
+
+➕cd Dr-report-V2
+
+➕chmod +x *
+
+➕python3 zalosreport.py
